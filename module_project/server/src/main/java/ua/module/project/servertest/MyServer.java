@@ -1,4 +1,4 @@
-package ua.module_project.servertest;
+package ua.module.project.servertest;
 
 public class MyServer {
 

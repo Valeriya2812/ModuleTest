@@ -1,5 +1,6 @@
 package test;
-import ua.module_project.servertest.MyServer;
+
+import ua.module.project.servertest.MyServer;
 
 public class App {
     public static void main(String[] args) {
